@@ -1,0 +1,61 @@
+@import 'http://fonts.googleapis.com/css?family=Noto+Sans';
+body{
+    /*padding: 0;*/
+    /*margin: 0;*/
+    /*background: -moz-linear-gradient(-45deg, #183850 0, #183850 25%, #192c46 50%, #22254c 75%, #22254c 100%);*/
+    /*background: -webkit-linear-gradient(-45deg, #183850 0, #183850 25%, #192c46 50%, #22254c 75%, #22254c 100%);*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background: -moz-linear-gradient(-45deg, #183850 0, #183850 25%, #192c46 50%, #22254c 75%, #22254c 100%);*/
+    /*background: -webkit-linear-gradient(-45deg, #183850 0, #183850 25%, #192c46 50%, #22254c 75%, #22254c 100%);*/
+}
+
+a{
+    text-decoration: none;
+    color: #555555;
+
+}
+
+.width{
+    width: 70%;
+    margin: auto;
+}
+
+
+.instruction{
+    border: 5px;
+    padding: 20px;
+    opacity: 1;
+    font: 18px 'Noto Sans', sans-serif;
+
+}
+
+
+.instruction h1{
+    color: #183850;
+    text-align: center;
+    font-weight: bold;
+}
+.instruction p{
+    color: #183850;
+    text-align: center;
+}
+
+.members {
+    border: 5px;
+    padding: 20px;
+    opacity: 1;
+    font: 18px 'Noto Sans', sans-serif;
+}
+.members h1{
+    color: #183850;
+    text-align: center;
+    font-weight: bold;
+}
+
+.members p{
+    color: #183850;
+    text-align: center;
+
+}
+

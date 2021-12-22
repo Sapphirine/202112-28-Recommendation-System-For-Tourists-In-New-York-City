@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Travel Information Recommendation System</title>
+
+    <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <nav role="navigation">
+            <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">EECS 6893 Group 28: Travel Information Recommendation System</a>
+            </div>
+            <div>
+                <ul class="nav navbar-nav">
+                    <li id = 'about'><a href="#">About</a></li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+    <div id="convo">
+            <ul class="chat-thread">
+            
+            </ul>
+    </div>
+    <form class="chat-window" onsubmit="return false;">
+        <div>
+            <textarea class="chat-window-message" name="chat-window-message" id = "sendText" placeholder="Type a message.." type="text"  autofocus></textarea> 
+            <input class = "button" id="btnSend" value="Send" type="button" onclick="send()" disabled=true/>
+        </div>
+    </form>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        document.getElementById('about').onclick = function(){
+            location.href = "About.html";
+        }
+    </script>
+    <script src='javascript.js'></script>
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
