@@ -68,6 +68,9 @@ https://blog.csdn.net/a312863063/article/details/87898349
 
 - Twitter Inc. (2016). GitHub - twbs/bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. GitHub. https://github.com/twbs/bootstrap
 
+- A. Madarang, codepen.io(2021, October 19). 15 CSS Chat Box Examples and Code. AppCode. 
+https://appcode.app/css-chat-box-examples-and-code/
+
 - NYPD Complaint Data Historic | NYC Open Data. (2021, July 7). NYC OpenData. 
 https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
